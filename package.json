@@ -6,7 +6,7 @@
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "react-scripts": "1.0.10",
-    "swagger-ui": "^3.0.21"
+    "swagger-ui-react": "^3.27.0"
   },
   "scripts": {
     "start": "react-scripts start",
